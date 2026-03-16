@@ -29,7 +29,9 @@ Gym Session → Support + L-sit skill
 ## 1 Dead Bug
 
 ![Dead
-Bug](https://upload.wikimedia.org/wikipedia/commons/0/0e/Dead_bug_exercise.png)
+Bug](../images/deadBug_001.jpg)
+![Dead
+Bug](../images/deadBug_002.jpg)
 
 Purpose
 
@@ -63,7 +65,9 @@ Volume
 ## 2 Hollow Hold
 
 ![Hollow
-Hold](https://upload.wikimedia.org/wikipedia/commons/3/3c/Hollow_body_hold.png)
+Hold](../images/HollowBody_001.jpg)
+![Hollow
+Hold](../images/HollowBody_002.jpg)
 
 Purpose
 
@@ -94,7 +98,15 @@ Progression goal
 ## 3 Seated Compression Lift
 
 ![Compression
-Lift](https://upload.wikimedia.org/wikipedia/commons/6/6e/Seated_leg_lift_exercise.png)
+Lift](../images/l-sit_001.jpg)
+![Compression
+Lift](../images/l-sit_002.jpg)
+![Compression
+Lift](../images/l-sit_003.jpg)
+![Compression
+Lift](../images/l-sit_004.jpg)
+![Compression
+Lift](../images/l-sit_005.jpg)
 
 Purpose
 
@@ -141,7 +153,7 @@ Volume
 ## 1 Support Hold
 
 ![Support
-Hold](https://upload.wikimedia.org/wikipedia/commons/5/58/Dip_bar_support_hold.png)
+Hold](../images/supportHold.jpg)
 
 Purpose
 
@@ -172,7 +184,10 @@ Volume
 ## 2 Tuck L‑Sit
 
 ![Tuck
-L-Sit](https://upload.wikimedia.org/wikipedia/commons/1/12/Tuck_L-sit.png)
+L-Sit](../images/tuck-L-sit_001.jpg)
+![Tuck
+L-Sit](../images/tuck-L-sit_002.jpg)
+
 
 Purpose
 
