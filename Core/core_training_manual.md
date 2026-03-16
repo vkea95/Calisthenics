@@ -58,7 +58,7 @@ Inhale during return
 
 Volume
 
-**3 × 8 reps**
+**4 × 3 reps 休息 30 秒**
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ Small relaxed breaths
 
 Volume
 
-**3 × 30 sec**
+**3 × 20 sec 休息 45 秒**
 
 Progression goal
 
@@ -99,6 +99,8 @@ Progression goal
 
 ![Compression
 Lift](../images/l-sit_001.jpg)
+![Compression
+Lift](../images/l-sit_007.jpg)
 ![Compression
 Lift](../images/l-sit_002.jpg)
 ![Compression
@@ -144,7 +146,47 @@ Inhale while lowering
 
 Volume
 
-**4 × 10 reps**
+**4 × 8 reps 休息 60 秒**
+
+------------------------------------------------------------------------
+
+## 4 Compression Hold（坐姿双腿压缩保持）
+
+![Compression
+Hold](../images/compressionHold_001.jpg)
+![Compression
+Hold](../images/compressionHold_002.jpg)
+
+动作要领
+-   坐姿直腿，膝盖锁死，脚尖绷直
+-   双手放在髋旁（屁股两侧）
+-   手用力向下压地
+-   下腹收紧，把双腿抬离地面
+-   保持 1–3 秒
+
+
+Movement
+-   抬腿
+-   停住
+-   慢慢放
+
+关键感觉
+-   下腹发力
+-   大腿根发力
+-   手在用力压地
+
+避免：
+-   身体后仰
+-   膝盖弯
+-   甩腿
+
+目标：接近解锁 L-sit
+-   双腿离地
+-   保持 2–3 秒
+
+Volume
+
+**3 × 5 reps 休息 60 秒**
 
 ------------------------------------------------------------------------
 
@@ -177,7 +219,7 @@ Normal breathing
 
 Volume
 
-**4 × 20 sec**
+**4 × 20 sec 休息 45 秒**
 
 ------------------------------------------------------------------------
 
@@ -212,7 +254,9 @@ Small breaths
 
 Volume
 
-**4 × 10 sec hold**
+**4 × 10 sec hold 休息 60 秒**
+
+**Target: 15 sec**
 
 ------------------------------------------------------------------------
 
