@@ -1,13 +1,13 @@
-| week | Max Strict Pull-ups | Notes 1 | Notes 2|
-| :---- | :---- | :---- | :---- |
-| week1 | 1 | 0 | NA |
-| week2 | 2 * 2 | 0 | NA |
-| week3 | 3*3 | 0 | NA |
-| week4 | 4 | 0 | NA |
-| week5 | 5 | 0 | NA |
-| week6 | 5.5 | 最后一个是靠腿部力量才完成的 | NA |
-| week7 | 1 | 0 | NA |
-| week8 | 1 | 0 | NA |
-| week9 | 1 | 0 | NA |
-| week10 | 1 | 0 | NA |
-| week11 | 1 | 0 | NA |
+| week | 日期 | Max Strict Pull-ups | Notes 1 | Notes 2|
+| :---- | :---- | :---- | :---- | :---- |
+| week1 | 2/01/26 | 1 | 0 | NA |
+| week2 | 2/08/26 | 2 * 2 | 0 | NA |
+| week3 | 2/15/26 | 3*3 | 0 | NA |
+| week4 | 2/22/26 | 4 | 0 | NA |
+| week5 | 3/01/26 | 5 | 0 | NA |
+| week6 | 3/08/26 | 5.5 | 最后一个是靠腿部力量才完成的 | NA |
+| week7 | 3/15/26  | 6 | 最后一个勉强下巴过杠 | NA |
+| week8 | -  | - | 0 | NA |
+| week9 | -  | - | 0 | NA |
+| week10 | -  | - | 0 | NA |
+| week11 | -  | - | 0 | NA |
