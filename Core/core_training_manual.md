@@ -63,9 +63,6 @@ Volume
 ------------------------------------------------------------------------
 
 ## 2 Hollow Hold
-
-![Hollow
-Hold](../images/HollowBody_001.jpg)
 ![Hollow
 Hold](../images/HollowBody_002.jpg)
 
@@ -97,16 +94,6 @@ Progression goal
 
 ## 3 Seated Compression Lift
 
-![Compression
-Lift](../images/l-sit_001.jpg)
-![Compression
-Lift](../images/l-sit_007.jpg)
-![Compression
-Lift](../images/l-sit_002.jpg)
-![Compression
-Lift](../images/l-sit_003.jpg)
-![Compression
-Lift](../images/l-sit_004.jpg)
 ![Compression
 Lift](../images/l-sit_005.jpg)
 
@@ -152,8 +139,6 @@ Volume
 
 ## 4 Compression Hold（坐姿双腿压缩保持）
 
-![Compression
-Hold](../images/compressionHold_001.jpg)
 ![Compression
 Hold](../images/compressionHold_002.jpg)
 
@@ -227,8 +212,6 @@ Volume
 
 ![Tuck
 L-Sit](../images/tuck-L-sit_001.jpg)
-![Tuck
-L-Sit](../images/tuck-L-sit_002.jpg)
 
 
 Purpose
