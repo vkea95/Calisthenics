@@ -81,7 +81,7 @@ Hollow Hold -- 2 × 20s
 
 ## Main Training
 
-Pull-up -- 6 × 4\
+Pull-up -- 5 × 5\
 Explosive Pull-up -- 3 × 2\
 L-sit -- 3 × 15s
 
