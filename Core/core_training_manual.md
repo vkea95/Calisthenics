@@ -60,7 +60,7 @@ Volume
 
 - 4 reps × 3 sets  
 - Tempo: 2s extend / 1s hold / 2s return  
-- Rest: 30s  
+- Rest: 60s  
 
 ------------------------------------------------------------------------
 
