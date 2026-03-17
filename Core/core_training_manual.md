@@ -58,7 +58,9 @@ Inhale during return
 
 Volume
 
-**4 × 3 reps 休息 30 秒**
+- 4 reps × 3 sets  
+- Tempo: 2s extend / 1s hold / 2s return  
+- Rest: 30s  
 
 ------------------------------------------------------------------------
 
@@ -83,8 +85,8 @@ Breathing
 Small relaxed breaths
 
 Volume
-
-**3 × 20 sec 休息 45 秒**
+- 20s × 3 sets  
+- Rest: 45s  
 
 Progression goal
 
@@ -132,8 +134,9 @@ Exhale while lifting\
 Inhale while lowering
 
 Volume
-
-**4 × 8 reps 休息 60 秒**
+- 8 reps × 4 sets  
+- Rest: 60s  
+- Execution: lift → hold 1s → slow lower (2–3s)  
 
 ------------------------------------------------------------------------
 
@@ -170,8 +173,9 @@ Movement
 -   保持 2–3 秒
 
 Volume
-
-**3 × 5 reps 休息 60 秒**
+- 5 reps × 3 sets  
+- Rest: 60s  
+- Target: 2–3 seconds hold 
 
 ------------------------------------------------------------------------
 
@@ -203,8 +207,8 @@ Breathing
 Normal breathing
 
 Volume
-
-**4 × 20 sec 休息 45 秒**
+- 20s × 4 sets  
+- Rest: 45s  
 
 ------------------------------------------------------------------------
 
@@ -236,22 +240,28 @@ Breathing
 Small breaths
 
 Volume
-
-**4 × 10 sec hold 休息 60 秒**
-
-**Target: 15 sec**
+- 10–12s × 4 sets  
+- Rest: 60s  
+- Goal: 15s  
 
 ------------------------------------------------------------------------
+## 4 L-sit Negative
+Volume
+- 5 reps × 3 sets  
+- Execution:
+  - tuck → extend → return  
+  OR  
+  - lift → slow lower  
 
-## 3 L‑Sit Attempts
+## 5 L‑Sit Attempts
 
 Attempt full L‑sit at the end of training.
 
 Even minimal lift counts.
 
 Volume
-
-**3--5 attempts**
+- 3–5 attempts  
+- NOT main training
 
 ------------------------------------------------------------------------
 
