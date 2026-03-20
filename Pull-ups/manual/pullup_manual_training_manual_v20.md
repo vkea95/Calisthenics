@@ -152,7 +152,7 @@ Tuesday CF = **辅助系统**
 
 ## SECTION 5 — Wednesday（Neural + Skill + Weak Point Day）
 
-### 5.1 Pull-up — 3 × 5（clean, fast）
+### 5.0 Pull-up — 3 × 5（clean, fast）
 - Rest：**90s**
 - RIR：**≥3**
 
@@ -167,6 +167,12 @@ Tuesday CF = **辅助系统**
 - 训练后应感觉“更顺”，而不是更累
 
 ---
+
+### 5.1 Explosive Pull-up — 3 × 2（爆发 + 快 + 弹力带（必要的话））
+- Rest：**90s**
+- RIR：**≥3**
+
+--
 
 ### 5.2 Scapular Pull-up — 3 × 8
 - Rest：**60–90s**
@@ -338,11 +344,10 @@ Cue：
   - Rest：**2–3 min**
 - Top Hold — 2 × 5–8s  
   - Rest：**90s**
+- Upper-range Pull-up — 3 × 5
+（eye level → chin above bar）
+  - Rest：**90s**
 
-#### 定位
-- 神经转换
-- 维持输出感觉
-- 不做大容量
 
 ---
 
