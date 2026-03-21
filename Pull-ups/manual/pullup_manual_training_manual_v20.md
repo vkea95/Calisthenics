@@ -69,6 +69,9 @@ CF weekly frequency: **1–2 days（必须受控）**
 
 ---
 
+### 3.1 Explosive Pull-up — 3 × 2
+- Rest：**2–3 min**
+
 ### 3.2 Pull-up — 5 × 5
 - Rest：**2 min**
 - RIR：**1–2**
@@ -193,7 +196,7 @@ Tuesday CF = **辅助系统**
 
 ---
 
-### 5.4 Upper-range Pull-up — 3 × 5
+### 5.4 Upper-range Pull-up — 2–3 × 3
 （eye level → chin above bar）
 - Rest：**90s**
 
@@ -324,11 +327,13 @@ Cue：
 ### 7.2 Explosive Pull-up — 4 × 3
 - Rest：**2–3 min**
 
-### 7.3 Chest-to-Bar — 3 × 3
+### 7.3 Slow Negative Pull-up — 3 × 2（5s）
+- Rest：**90–120s**
+- Rest：**2–3 min**
+
 - Rest：**2 min**
 
-### 7.4 False Grip Hang — 3 × 20s
-- Rest：**90s**
+### 7.4 （已删除 False Grip Hang）
 
 ### Coach Rule
 > Friday 的目标是“输出能力”，不是把自己练废
@@ -344,7 +349,7 @@ Cue：
   - Rest：**2–3 min**
 - Top Hold — 2 × 5–8s  
   - Rest：**90s**
-- Upper-range Pull-up — 3 × 5
+- Upper-range Pull-up — 2–3 × 3
 （eye level → chin above bar）
   - Rest：**90s**
 
