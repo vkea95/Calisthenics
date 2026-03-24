@@ -1,4 +1,4 @@
-**Pull-up → Muscle-up week7 周记**
+**Pull-up → Muscle-up week8 周记**
 
 *周一 2026年3月16日 居家核心训练*
 # Home Session
