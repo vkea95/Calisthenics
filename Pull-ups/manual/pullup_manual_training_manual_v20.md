@@ -42,37 +42,11 @@ CF weekly frequency: **1–2 days（必须受控）**
 
 ## SECTION 3 — Monday（Strength Day / Heavy Day｜主线核心）
 
-### 3.1 Weighted Pull-up — 5 × 3
-- 起始：**+5 lb（约2.5kg）**
-- 若明显过轻：可到 **+10 lb**
-- Rest：**2–3 min**
-- RIR：**1–2**
-
-#### Coach Cue
-- Scapula down first  
-- Core tight（hollow）
-- No swing  
-- Chest to bar  
-- Full ROM（底部伸展，顶部下巴明确过杠）
-
-#### 检查标准
-- 前3组应稳定
-- 后2组接近极限但不失败
-- 若第2–3组就开始掉 reps：**重量过重**
-- 若5组都明显轻松：**下次增重 2.5–5 lb**
-
-#### Failure Rules（负重引体失败处理）
-- 某组做不满3个：**该组停在实际完成次数，不补 reps**
-- 连续两组掉 reps：**下次减重**
-- 当天状态差：改为 **4×3** 或 **5×2**
-- **不允许使用弹力带来“补完负重引体”**
-
----
-
 ### 3.1 Explosive Pull-up — 3 × 2
 - Rest：**2–3 min**
 
-### 3.2 Pull-up — 5 × 5
+### 3.2 Pull-up — 5 × 3（替换原5×5）
+- 标准：快上 — 顶停0.5–1秒 — 下降1–2秒
 - Rest：**2 min**
 - RIR：**1–2**
 
@@ -83,20 +57,20 @@ CF weekly frequency: **1–2 days（必须受控）**
 - Chest to bar  
 - 最后 5cm 主动加速
 
-#### Failure Rules
-- 若某组失败：后续改为 **4 reps**
+#### Failure Rules（修正）
+- 若某组第3个明显变慢 → 停止该组
+- 后续组改为 2 reps
 - 不允许强行磨上去
-- 若速度明显塌陷：提前结束该动作，进入后续模块
 
 ---
 
-### 3.3 Explosive Pull-up — 3 × 2
+### 3.3 Weighted Pull-up — 5 × 3
 - Rest：**2–3 min**
 
-#### 规则
-- Height > reps
-- 快速启动
-- 只要速度下降，就不再加 reps
+#### 规则（修正）
+- 稳定发力（不爆冲）
+- 不允许慢磨
+- RIR：1–2（必须保留余量）
 
 ---
 
@@ -155,7 +129,25 @@ Tuesday CF = **辅助系统**
 
 ## SECTION 5 — Wednesday（Neural + Skill + Weak Point Day）
 
-### 5.0 Pull-up — 3 × 5（clean, fast）
+### Load Control Rule（新增）
+
+若出现以下任一情况：
+- 爆发明显下降
+- Pull-up 变慢
+- 肘部紧/不适
+
+→ 当天删除以下模块之一：
+- Inverted Row
+- Hollow + Pull
+- 或减少 Upper-range 1组
+
+### 5.0 Explosive Pull-up — 3 × 2（爆发 + 快 + 弹力带（必要的话））
+- Rest：**90s**
+- RIR：**≥3**
+
+---
+
+### 5.1 Pull-up — 3 × 3（clean, fast）
 - Rest：**90s**
 - RIR：**≥3**
 
@@ -171,32 +163,7 @@ Tuesday CF = **辅助系统**
 
 ---
 
-### 5.1 Explosive Pull-up — 3 × 2（爆发 + 快 + 弹力带（必要的话））
-- Rest：**90s**
-- RIR：**≥3**
-
---
-
-### 5.2 Scapular Pull-up — 3 × 8
-- Rest：**60–90s**
-
-#### Coach Cue
-- Only scapula moves
-- 手臂不弯
-- 下沉 + 上提清晰
-
----
-
-### 5.3 Hollow Hold（10s）+ Pull-up（1）× 5组
-- Rest：**60–90s**
-
-#### 目的
-- 建立核心 → 上肢发力链
-- 为更高质量 pull 和将来 muscle-up 做准备
-
----
-
-### 5.4 Upper-range Pull-up — 2–3 × 3
+### 5.2 Upper-range Pull-up — 2–3 × 3
 （eye level → chin above bar）
 - Rest：**90s**
 
@@ -206,11 +173,30 @@ Tuesday CF = **辅助系统**
 
 ---
 
-### 5.5 Top Hold — 2 × 8s
+### 5.3 Top Hold — 2 × 8s
 - Rest：**90s**
 
-### 5.6 Slow Negative — 2 × 1
+--
+
+### 5.4 Slow Negative — 2 × 1
 - Rest：**90s**
+
+### 5.5 Scapular Pull-up — 3 × 8
+- Rest：**60–90s**
+
+#### Coach Cue
+- Only scapula moves
+- 手臂不弯
+- 下沉 + 上提清晰
+
+---
+
+### 5.6 Hollow Hold（10s）+ Pull-up（1）× 5组
+- Rest：**60–90s**
+
+#### 目的
+- 建立核心 → 上肢发力链
+- 为更高质量 pull 和将来 muscle-up 做准备
 
 ---
 
@@ -328,10 +314,7 @@ Cue：
 - Rest：**2–3 min**
 
 ### 7.3 Slow Negative Pull-up — 3 × 2（5s）
-- Rest：**90–120s**
-- Rest：**2–3 min**
-
-- Rest：**2 min**
+- Rest：90–120s
 
 ### 7.4 （已删除 False Grip Hang）
 
@@ -343,13 +326,13 @@ Cue：
 ## SECTION 8 — Sunday（Conversion / Test Day｜保留双周期逻辑）
 
 ### 8.1 非测试周（保持原结构）
-- Pull-up — 3 × (max − 1)  
-  - Rest：**2–3 min**
 - Explosive — 3 × 1  
+  - Rest：**2–3 min**
+- Pull-up — 3 × (max − 1)  
   - Rest：**2–3 min**
 - Top Hold — 2 × 5–8s  
   - Rest：**90s**
-- Upper-range Pull-up — 2–3 × 3
+- Upper-range Pull-up — 1–2 × 3
 （eye level → chin above bar）
   - Rest：**90s**
 
@@ -365,6 +348,15 @@ Cue：
 #### Coach Rule
 > Sunday = Neural Output Day  
 > 禁止随意增加训练量
+
+### 标准引体节奏（新增）
+- 上：快速（主动发力）
+- 顶：停留0.5–1秒
+- 下：1–2秒控制
+禁止：
+- 慢磨上去
+- 直接掉下
+- 借摆完成
 
 ---
 
@@ -470,6 +462,19 @@ Plateau 模块不是常规周计划，
 2. 速度  
 3. 次数  
 4. 负重  
+
+### Execution Priority Rule（新增）
+
+当出现冲突时，优先级如下：
+1. 速度（是否还“快”）
+2. 动作标准（是否干净）
+3. 次数
+4. 负重
+
+规则：
+- 一旦速度下降 → 该组停止
+- 不允许为了完成计划而牺牲速度
+
 
 ---
 
