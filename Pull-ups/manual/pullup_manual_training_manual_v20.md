@@ -1,6 +1,6 @@
-# Pull-up → Muscle-up Training Manual v21.1（Coach Integrated Full System）
-> 原则：**本版只增加与整合，不随意删除原有内容。**  
-> 目标：保留你原计划中的主线结构、周日双周期、CF约束、倒立副线、Failure Rules、Plateau模块、Elbow Protection，并新增澳式引体补充模块。
+# Pull-up → Muscle-up Training Manual v21.2（Coach Integrated Full System｜Minimal Correction Update）
+> 原则：**本版在 v21.1 基础上只做必要修正，不删除正确内容。**  
+> 目标：保留你原计划中的主线结构、周日双周期、CF约束、倒立副线、Failure Rules、Plateau模块、Elbow Protection，并对顺序、Pull-up 技术标准、Inverted Row 强度与自检规则做最小修正。
 
 ---
 
@@ -38,15 +38,34 @@ CF weekly frequency: **1–2 days（必须受控）**
 3. 核心先上线  
 4. 避免一上来就用手臂硬拉
 
+### Global Pull-up Tech Standard（新增统一执行标准）
+以下标准适用于**所有标准 Pull-up / Capacity Pull-up / Sunday Pull-up**：
+
+- 上：**快速但可控**（不乱冲、不摆动）
+- 顶：**chin clearly over bar，停 0.5–1 秒**
+- 下：**1.5–2 秒控制下降**，到底完全伸直
+- 当前阶段：**不把 chest-to-bar 当作标准 rep 要求**
+
+### Global Self-check（每组自检）
+1. 起始是否先做到 **scapula down**
+2. 上升路径是否垂直、身体是否无摆动
+3. 顶端是否能明确停住 0.5 秒
+4. 下降是否至少 1.5 秒且可控
+
+> 任一不满足 = 该组质量不合格。  
+> 处理原则：不补 reps，不硬凑，不为了完成数字牺牲动作质量。
+
 ---
 
 ## SECTION 3 — Monday（Strength Day / Heavy Day｜主线核心）
 
 ### 3.1 Explosive Pull-up — 3 × 2
 - Rest：**2–3 min**
+- 执行顺序：**必须第一个做**
+- 自检：若第 2 组开始已经明显“不快” → 结束该模块，不追加
 
 ### 3.2 Pull-up — 5 × 3（替换原5×5）
-- 标准：快上 — 顶停0.5–1秒 — 下降1–2秒
+- 标准：快上 — **chin clearly over bar** 顶停0.5–1秒 — **下降1.5–2秒**
 - Rest：**2 min**
 - RIR：**1–2**
 
@@ -54,7 +73,7 @@ CF weekly frequency: **1–2 days（必须受控）**
 - Scapula down first  
 - Core tight  
 - Elbows drive down  
-- Chest to bar  
+- Chin clearly over bar（当前标准，不追求胸触杠）  
 - 最后 5cm 主动加速
 
 #### Failure Rules（修正）
@@ -71,6 +90,7 @@ CF weekly frequency: **1–2 days（必须受控）**
 - 稳定发力（不爆冲）
 - 不允许慢磨
 - RIR：1–2（必须保留余量）
+- 若 3.2 已出现明显降速、后续组已改为 2 reps → **当天取消 Weighted Pull-up**
 
 ---
 
@@ -129,6 +149,13 @@ Tuesday CF = **辅助系统**
 
 ## SECTION 5 — Wednesday（Neural + Skill + Weak Point Day）
 
+### Execution Order（新增）
+实际执行顺序固定为：
+
+**5.0 Explosive → 5.1 Pull-up → 5.2 Upper-range → 5.3 Top Hold → 5.4 Slow Negative → 5.5 Scapular → 5.6 Hollow + Pull → 5.7 Inverted Row（可删）→ 5.8 Handstand**
+
+> 说明：Upper-range 保持在 Top Hold 与 Negative 之前，避免顶端训练被后续疲劳稀释。
+
 ### Load Control Rule（新增）
 
 若出现以下任一情况：
@@ -150,6 +177,7 @@ Tuesday CF = **辅助系统**
 ### 5.1 Pull-up — 3 × 3（clean, fast）
 - Rest：**90s**
 - RIR：**≥3**
+- 技术标准：按上方 **Global Pull-up Tech Standard** 执行
 
 #### 目的
 - 神经模式维持
@@ -193,6 +221,7 @@ Tuesday CF = **辅助系统**
 
 ### 5.6 Hollow Hold（10s）+ Pull-up（1）× 5组
 - Rest：**60–90s**
+- 自检：做完后应感觉**更顺**、不是更累；若感觉明显更累，当天删除该模块
 
 #### 目的
 - 建立核心 → 上肢发力链
@@ -200,15 +229,17 @@ Tuesday CF = **辅助系统**
 
 ---
 
-### 5.7 Inverted Row（澳式引体 / Regression）— 4 × 10
+### 5.7 Inverted Row（澳式引体 / Regression）— **2–3 × 6–8**
 - Rest：**60–90s**
-- 强度：**不力竭**
+- 强度：**RIR 2–3，不力竭**
+- 定位：**补充模块 / 可删模块**
 
 #### Coach Cue
 - 身体保持直线（像 plank）
-- 胸碰杠 / 拉向杠
+- 胸靠近杠 / 拉向杠（不是撞上去）
 - 不耸肩
-- 顶端略停顿
+- 顶端略停顿 **0.5 秒**
+- 上：快但可控；下：**1.5–2 秒**
 
 #### 进阶方法
 - 杠更低
@@ -277,7 +308,13 @@ Cue：
 
 ## SECTION 7 — Friday（Volume Day / Output Day）
 
-### 7.1 Pull-up Capacity System（核心升级）
+### Execution Order（新增修正）
+
+### 7.1 Explosive Pull-up — 4 × 3
+- Rest：**2–3 min**
+- 执行说明：**周五先做本模块，再进入 7.1 容量模块**
+
+### 7.2 Pull-up Capacity System（核心升级）
 
 #### Progression
 - Week 1：6 × 4 = 24  
@@ -309,10 +346,6 @@ Cue：
 - 下周不急着升级组数，必要时重复当前周
 
 ---
-
-### 7.2 Explosive Pull-up — 4 × 3
-- Rest：**2–3 min**
-
 ### 7.3 Slow Negative Pull-up — 3 × 2（5s）
 - Rest：90–120s
 
@@ -351,8 +384,8 @@ Cue：
 
 ### 标准引体节奏（新增）
 - 上：快速（主动发力）
-- 顶：停留0.5–1秒
-- 下：1–2秒控制
+- 顶：停留0.5–1秒，**chin clearly over bar**
+- 下：1.5–2秒控制
 禁止：
 - 慢磨上去
 - 直接掉下
@@ -385,13 +418,14 @@ Cue：
 
 1. Active Hang（肩胛下沉）
 2. Initiation（肘向下）
-3. Mid-range（胸前顶）
-4. Top（最后5cm加速）
+3. Mid-range（路径垂直，核心锁定）
+4. Top（最后5cm加速，chin 明确过杠）
 5. Controlled descent
 
 ### Coach Note
-你不是“下巴找杠”，而是：
-**胸 → 锁骨 → 下巴**
+你不是“下巴找杠”，也不是“拿胸去撞杠”，而是：
+**肘向下驱动 → 身体垂直上升 → 下巴明确过杠**
+
 
 ---
 
@@ -404,10 +438,11 @@ Cue：
 - 顶端停不住
 
 ✅ 正确：
-- 胸主动靠近杠
+- 以**下巴明确过杠**作为标准 rep 完成
 - 肘向下驱动
 - hollow 持续
 - 最后5cm主动加速
+- 允许身体被“拉上去”，但不允许摆动代偿
 
 ---
 
@@ -451,6 +486,10 @@ Plateau 模块不是常规周计划，
 
 ## SECTION 14 — Load Rules（关键）
 
+### 新增顺序规则
+- **Explosive 永远优先于其他 Pull-up 模块**
+- 若爆发质量已经掉了，不要再为了完成计划继续堆爆发组
+
 - 永远保留 **1–2 reps**
 - 周一允许接近极限
 - 周三必须 submax
@@ -483,7 +522,7 @@ Plateau 模块不是常规周计划，
 Scapula down  
 Core tight  
 Elbows down  
-Chest to bar  
+Chin over bar  
 Accelerate at top  
 
 ---
@@ -559,8 +598,8 @@ Accelerate at top
 ## SECTION 19 — Regression System（融入大川体系，但只做补充）
 
 ### 19.1 Inverted Row（已放入周三）
-- 4 × 10  
-- 作为低风险容量补充
+- **2–3 × 6–8**  
+- 作为低风险容量补充（RIR 2–3，可删）
 
 ### 19.2 Band-assisted Pull-up（备用工具，不是主线）
 #### 可用场景
@@ -684,7 +723,18 @@ Pull-up = 主线系统
 
 ---
 
-## SECTION 24 — Final Coach Reminder
+## SECTION 24 — Minimal Change Log（v21.2）
+1. 保留原有热身、拉伸、休息时间、CF 约束、倒立副线、Plateau、Elbow Protection
+2. 新增全局 Pull-up 技术统一标准与每组自检
+3. 周一 Explosive 强制第一；若周一 Pull-up 已降速则取消当天 Weighted
+4. 周三执行顺序明确；Hollow + Pull 加入“更顺而不是更累”自检
+5. Inverted Row 从 4 × 10 下调为 2–3 × 6–8，避免抢恢复
+6. 周五实际执行顺序改为：Explosive → Capacity → Negative
+7. 所有标准 Pull-up 统一为：**chin clearly over bar**，不再把 chest-to-bar 当作当前标准 rep 要求
+
+---
+
+## SECTION 25 — Final Coach Reminder
 
 你现在不是缺“更多方法”，  
 而是缺“稳定执行 + 受控恢复”。
